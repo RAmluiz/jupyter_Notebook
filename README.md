@@ -1,2 +1,5 @@
-# jupyter_Notebook
-Alguns exercícios simples de algoritmos e estrutura de dados
+# Analisando uma base de dados de vendas a partir de um arquivo do reposi0tório Kaggle.com
+
+
+
+
